@@ -15,8 +15,6 @@
 - 👨‍💻 Trabalho remoto com projetos no Brasil e no exterior  
 - 💬 Freelancer e colaborador em projetos criativos  
 
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
