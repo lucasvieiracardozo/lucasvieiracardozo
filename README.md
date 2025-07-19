@@ -3,8 +3,6 @@
   <p>Criativo multidisciplinar apaixonado por <strong>Design</strong>, <strong>Web</strong>, <strong>Motion</strong>, <strong>Vídeos</strong> e <strong>3D</strong>.</p>
   <p>Transformo ideias em experiências visuais e digitais que impactam pessoas e marcas.</p>
 </div>
----
-
 <table>
   <tr>
     <td valign="top" width="50%">
