@@ -1,8 +1,5 @@
-# Salvar o conteúdo do README como um arquivo .md para download
-
-readme_content = """
 <div align="center">
-  <img src="https://photos.fife.usercontent.google.com/pw/AP1GczNg5gQtmfCUoe-wO1Itc6NwzBeF2Aw3kFCkpZ3iG3VsQYZUSDNuBuzZ=w828-h823-s-no-gm?authuser=0" width="150" style="border-radius: 50%" alt="Lucas Vieira Cardozo" />
+  <img src="image.png" width="150" style="border-radius: 50%" alt="Lucas Vieira Cardozo" />
   
   <h1>👋 Olá! Eu sou o Lucas Vieira Cardozo</h1>
   <p>Criativo multidisciplinar apaixonado por <strong>Design</strong>, <strong>Web</strong>, <strong>Motion</strong>, <strong>Vídeos</strong> e <strong>3D</strong>.</p>
