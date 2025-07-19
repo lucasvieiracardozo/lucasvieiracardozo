@@ -64,10 +64,3 @@
 <p align="center">
   <em>“Criatividade é a inteligência se divertindo.” – Albert Einstein</em>
 </p>
-"""
-
-with open("/mnt/data/README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-"/mnt/data/README.md"
-
