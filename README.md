@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="image.png" width="150" style="border-radius: 50%" alt="Lucas Vieira Cardozo" />
-
   <h1>👋 Olá! Eu sou o Lucas Vieira Cardozo</h1>
   <p>Criativo multidisciplinar apaixonado por <strong>Design</strong>, <strong>Web</strong>, <strong>Motion</strong>, <strong>Vídeos</strong> e <strong>3D</strong>.</p>
   <p>Transformo ideias em experiências visuais e digitais que impactam pessoas e marcas.</p>
 </div>
-
 ---
 
 <table>
