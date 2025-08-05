@@ -1,17 +1,3 @@
-<div align="center">
-  <h1>👋 Olá! Eu sou o Lucas Vieira Cardozo</h1>
-  <p>Criativo multidisciplinar apaixonado por <strong>Design</strong>, <strong>Web</strong>, <strong>Motion</strong>, <strong>Vídeos</strong> e <strong>3D</strong>.</p>
-  <p>Transformo ideias em experiências visuais e digitais que impactam pessoas e marcas.</p>
-</div>
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### 🧠 Sobre Mim
-
-- 📍 Bombinhas, SC - Brasil  
-- 👨‍💻 Trabalho remoto com projetos no Brasil e no exterior  
-- 💬 Freelancer e colaborador em projetos criativos  
 
 ### 📈 GitHub Stats
 
@@ -63,10 +49,4 @@
   <a href="https://www.threads.com/@lucasvieiracardozo"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
   <a href="https://www.facebook.com/lucasvieiracardozo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://x.com/olucascardozo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <em>“Criatividade é a inteligência se divertindo.” – Albert Einstein</em>
 </p>
