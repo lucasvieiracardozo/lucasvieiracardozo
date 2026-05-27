@@ -1,52 +1,47 @@
+# Lucas Cardozo
 
-### 📈 GitHub Stats
+Creative technologist and founder of [CardoLAB Studio](https://www.cardolab.studio/).
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasvieiracardozo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieiracardozo&layout=compact&langs_count=7&theme=radical"/>
-</p>
+I work at the intersection of software engineering, brand systems, motion design, and AI-assisted production. My focus is building digital products that are useful, maintainable, visually sharp, and ready to evolve after the first release.
 
-</td>
-    <td valign="top" width="50%">
+![Lucas Cardozo](image.png)
 
-### 🛠️ Habilidades Técnicas
+## Current Focus
 
-#### 🎨 Design & Motion
-<p>
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+- Building CardoLAB Studio as a production-grade creative technology studio.
+- Developing private client and studio repositories with clean documentation, CI, security notes, and release discipline.
+- Turning brand, audiovisual, and product references into structured web systems.
+- Exploring AI-assisted workflows for design, development, motion, and operations.
 
-#### 💻 Web
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
+## Working Principles
 
-#### 🧱 3D e Vídeo
-<p>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-FF2C63?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-</p>
+- Clear repository structure before scale.
+- Documentation that helps future maintainers move faster.
+- CI, validation, and environment hygiene as part of the craft.
+- Visual systems that respect brand identity instead of chasing generic trends.
+- Private-by-default for client, commercial, and unfinished work.
 
-</td>
-  </tr>
-</table>
+## Core Stack
 
----
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `Vercel` `GitHub Actions` `Node.js` `Python`
 
-### 🌐 Onde Me Encontrar
+## Creative Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucasvieiracardozo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@lucasvieiracardozo"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/lucasvieiracardozo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.threads.com/@lucasvieiracardozo"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
-  <a href="https://www.facebook.com/lucasvieiracardozo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://x.com/olucascardozo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
+`Figma` `After Effects` `Premiere Pro` `DaVinci Resolve` `Blender` `Photoshop` `Brand Systems` `Motion Design`
+
+## Selected Workspaces
+
+- `cardolabstudio`: production website, CMS, maintenance mode, and deployment workflow for CardoLAB Studio.
+- `VisusStudio`: brand system and future website planning workspace for an audiovisual studio.
+- `LimaSurfConcept`: brand/case-study reference workspace for future web development.
+- `Aira`: local-first Windows gesture and voice assistant MVP.
+- `DirectorX`: AI-assisted video editing and EDL planning prototype.
+- `SentinelFlow`: security operations and patrol management MVP.
+
+Most active product and client repositories are private while they are being shaped, validated, and prepared for release.
+
+## Contact
+
+- Website: [cardolab.studio](https://www.cardolab.studio/)
+- LinkedIn: [lucasvieiracardozo](https://www.linkedin.com/in/lucasvieiracardozo)
+- Email: [contact@cardolab.studio](mailto:contact@cardolab.studio)
