@@ -1,27 +1,31 @@
-# Lucas Cardozo
+# Lucas Vieira Cardozo
 
-Creative technologist and founder of [CardoLAB Studio](https://www.cardolab.studio/).
+Creative developer, brand designer, and audiovisual creator building at the intersection of software, identity, motion, and AI-assisted workflows.
 
-I work at the intersection of software engineering, brand systems, motion design, and AI-assisted production. My focus is building digital products that are useful, maintainable, visually sharp, and ready to evolve after the first release.
+I like turning ideas into digital systems that feel intentional: websites, brand experiences, prototypes, content pipelines, and tools that are useful beyond the first launch.
 
-![Lucas Cardozo](image.png)
+<p>
+  <a href="https://www.cardolab.studio/"><img src="https://img.shields.io/badge/CardoLAB_Studio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="CardoLAB Studio" /></a>
+  <a href="mailto:contact@cardolab.studio"><img src="https://img.shields.io/badge/Email-contact@cardolab.studio-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/lucasvieiracardozo"><img src="https://img.shields.io/badge/LinkedIn-lucasvieiracardozo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+## What I Do
+
+- Design and develop modern websites, portfolios, landing pages, and digital products.
+- Build brand systems with visual direction, typography, motion, and content structure.
+- Create audiovisual assets, motion pieces, and case-study presentations.
+- Explore AI-assisted workflows for development, design, video, and creative operations.
+- Organize projects with clean repositories, documentation, CI, and release discipline.
 
 ## Current Focus
 
-- Building CardoLAB Studio as a production-grade creative technology studio.
-- Developing private client and studio repositories with clean documentation, CI, security notes, and release discipline.
-- Turning brand, audiovisual, and product references into structured web systems.
-- Exploring AI-assisted workflows for design, development, motion, and operations.
+- Improving my personal and studio engineering standards on GitHub.
+- Building [CardoLAB Studio](https://www.cardolab.studio/) as a creative technology studio.
+- Developing private client and studio projects before turning selected work into public cases.
+- Connecting software, brand, video, and automation into one stronger creative pipeline.
 
-## Working Principles
-
-- Clear repository structure before scale.
-- Documentation that helps future maintainers move faster.
-- CI, validation, and environment hygiene as part of the craft.
-- Visual systems that respect brand identity instead of chasing generic trends.
-- Private-by-default for client, commercial, and unfinished work.
-
-## Core Stack
+## Tech Stack
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `Vercel` `GitHub Actions` `Node.js` `Python`
 
@@ -31,17 +35,28 @@ I work at the intersection of software engineering, brand systems, motion design
 
 ## Selected Workspaces
 
-- `cardolabstudio`: production website, CMS, maintenance mode, and deployment workflow for CardoLAB Studio.
-- `VisusStudio`: brand system and future website planning workspace for an audiovisual studio.
-- `LimaSurfConcept`: brand/case-study reference workspace for future web development.
+Most active repositories are private while they are being shaped, validated, or prepared for clients. Some current workspaces include:
+
+- `cardolabstudio`: studio website, CMS, maintenance mode, and production workflow.
+- `VisusStudio`: brand reference and website planning workspace.
+- `LimaSurfConcept`: brand/case-study reference workspace.
 - `Aira`: local-first Windows gesture and voice assistant MVP.
 - `DirectorX`: AI-assisted video editing and EDL planning prototype.
 - `SentinelFlow`: security operations and patrol management MVP.
 
-Most active product and client repositories are private while they are being shaped, validated, and prepared for release.
+## Social
 
-## Contact
+<p>
+  <a href="https://www.youtube.com/@lucasvieiracardozo"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/lucasvieiracardozo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.threads.com/@lucasvieiracardozo"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
+  <a href="https://www.facebook.com/lucasvieiracardozo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://x.com/olucascardozo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
-- Website: [cardolab.studio](https://www.cardolab.studio/)
-- LinkedIn: [lucasvieiracardozo](https://www.linkedin.com/in/lucasvieiracardozo)
-- Email: [contact@cardolab.studio](mailto:contact@cardolab.studio)
+## GitHub
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucasvieiracardozo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Lucas Cardozo GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieiracardozo&layout=compact&theme=transparent&hide_border=true&langs_count=7" alt="Lucas Cardozo top languages" />
+</p>
